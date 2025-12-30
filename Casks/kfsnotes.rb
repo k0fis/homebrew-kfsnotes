@@ -1,6 +1,6 @@
 cask "kfsnotes" do
-  version "1.7.1"
-  sha256 "01f2ba012c30d5a0cd47d4f9d21d6b76d0d475743ed26cb7d554a02941b87782"
+  version "1.7.2"
+  sha256 "2168e45e8bf396a845e404f01b47424d2a800e6c96f82b5aa8130978559ffb6a"
 
   url "https://github.com/k0fis/kfsNotes-osx/releases/download/v#{version}/kfsNotes.app.zip"
   name "kfsNotes"
